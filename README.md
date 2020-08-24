@@ -1,8 +1,8 @@
 It's yash
 19 Y.O students
 
-<!--
-**yashkolte/yashkolte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yash.kolte9@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
