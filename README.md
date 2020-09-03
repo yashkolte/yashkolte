@@ -12,6 +12,10 @@ It's yash
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-yash.vercel.app/api/spotify-playing" alt="Yash Spotify Playing" width="350" />](https://open.spotify.com/user/uxpvteyrel00b4v6tdkvczaeo)
+
+
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashkolte&hide=prs,issues&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&hide=typescript,glsl)
