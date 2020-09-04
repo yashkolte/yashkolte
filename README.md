@@ -13,7 +13,7 @@ It's yash
 - ⚡ Fun fact: ...
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/uxpvteyrel00b4v6tdkvczaeo)
+[<img src="https://natemoo-re-murex.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/uxpvteyrel00b4v6tdkvczaeo)
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashkolte&hide=prs,issues&show_icons=true)
 
