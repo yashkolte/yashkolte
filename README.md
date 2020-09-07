@@ -18,6 +18,6 @@ It's yash
 
 
 
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashkolte&hide=prs,issues&show_icons=true)
+<!-- ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashkolte&hide=prs,issues&show_icons=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&hide=typescript,glsl)
