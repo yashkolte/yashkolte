@@ -14,7 +14,6 @@ Persuing Engineering (B.Tech CS)
 - 😄 Pronouns: strombreaker
 <br>
 <br>
-<br>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -25,8 +24,8 @@ Persuing Engineering (B.Tech CS)
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/>&nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/></p><br><br><br>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/></p><br><br>
 
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashkolte&hide=prs,issues&show_icons=true)<br><br><br>
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashkolte&hide=prs,issues&show_icons=true)<br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&hide=typescript,glsl)
