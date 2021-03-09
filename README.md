@@ -13,7 +13,7 @@ Persuing Engineering (B.Tech CS)
 - 📫 How to reach me: yash.kolte9@gmail.com
 - 😄 Pronouns: strombreaker
 <br>
-<br><--
+<br><!--
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>&nbsp&nbsp&nbsp&nbsp&nbsp
