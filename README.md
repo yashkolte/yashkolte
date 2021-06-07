@@ -9,9 +9,8 @@ Persuing Engineering (B.Tech CS)
 - 🌱 I’m currently learning Python, Java, Mysql, Web development, C/C++.
 - 👯 I’m looking to collaborate on My repositories.
 - 🤔 I’m looking for help with c program project.
-- 💬 Ask me about anything.
+- 💬 Ask me about related query.
 - 📫 How to reach me: yash.kolte9@gmail.com
-- 😄 Pronouns: strombreaker
 <br>
 <br><!--
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>&nbsp&nbsp&nbsp&nbsp&nbsp
