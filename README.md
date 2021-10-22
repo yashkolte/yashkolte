@@ -8,7 +8,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=yashkolte.yashkolte)   [![Github](https://img.shields.io/github/followers/yashkolte?label=Follow&style=social)](https://github.com/yashkolte)&nbsp;
 
 
-### Hey Fokers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey Fokers </div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer...;I'm+Web+Developer;I'm+Engineer;)
 
@@ -42,10 +42,10 @@ who is obsessed with Web Designing and always looking to find patterns of which 
   <img alt="Yash's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/yashkolte20">
-  <img style="margin-left: 30px" alt="Yash Kolte | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img style="margin-left:30px" alt="Yash Kolte | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/uxpvteyrel00b4v6tdkvczaeo">
-  <img style="margin-left: 30px" alt="Yash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img style="margin-left:30px" alt="Yash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 
