@@ -66,8 +66,8 @@
 <b><p align="center">Hey! Look at this snake eating up my contributions!</p></b> ![snake gif](github-contribution-grid-snake.svg)
 <br><br>
 
-<img align="center" src="trophy.png">
-<img src="https://github-profile-trophy.vercel.app/?username=yashkolte&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Yashkolte's Github Trophy"/>
+<h2 align="center">Trophy 🏆</h2>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=yashkolte&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Yashkolte's Github Trophy"/>
 
 <br><br>
 
