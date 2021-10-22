@@ -56,9 +56,11 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <img width="55%" align="left" alt="Github" src="img2.png" /><p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com?user=yashkolte&theme=chartreuse-dark"></p>
 
 <img width="40%" align="right" alt="Github" src="control2.svg" /><p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
+<br>
+<br>
+<b><p align="center">Hey! Look at this snake eating up my contributions!</p></b>
 
-
-
+![snake gif](github-contribution-grid-snake.svg)
 
 
 
