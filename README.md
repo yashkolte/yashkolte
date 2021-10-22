@@ -33,10 +33,11 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![AdobeXD](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-xd)&nbsp;
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 <a href="https://discord.gg/52EyZwYz">
   <img alt="Yash's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
