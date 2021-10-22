@@ -17,6 +17,8 @@
 𝙬𝙝𝙤 𝙞𝙨 𝙤𝙗𝙨𝙚𝙨𝙨𝙚𝙙 𝙬𝙞𝙩𝙝 𝙒𝙚𝙗 𝘿𝙚𝙨𝙞𝙜𝙣𝙞𝙣𝙜 𝙖𝙣𝙙 𝙖𝙡𝙬𝙖𝙮𝙨 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙩𝙤 𝙛𝙞𝙣𝙙 𝙥𝙖𝙩𝙩𝙚𝙧𝙣𝙨 𝙤𝙛 𝙬𝙝𝙞𝙘𝙝 𝙖𝙧𝙚 𝙝𝙞𝙙𝙙𝙚𝙣 𝙞𝙣 𝙩𝙝𝙚 𝘾𝙤𝙙𝙚 𝙒𝙤𝙧𝙡𝙙.</p>
 <br>
 
+<img width="50%" align="right" alt="Github" src="loadgif.gif" />
+
 ### 🛠 &nbsp;Skills <img width="30px" style="margin-left: 10px" align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -34,7 +36,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+<br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 <a href="https://discord.gg/52EyZwYz">
