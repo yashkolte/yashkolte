@@ -10,11 +10,12 @@
 
 ### Hey Fokers </div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer...;I'm+Web+Developer;I'm+Engineer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer...;I'm+Web+Developer;I'm+Engineer;)
 
-<p>I am Yash kolte from India a Third year undergraduate student.
-a passionate self-learner and a Full Stack Developer  ,
-who is obsessed with Web Designing and always looking to find patterns of which are hidden in the Code World.</p>
+<p>𝙄 𝙖𝙢 𝙔𝙖𝙨𝙝 𝙠𝙤𝙡𝙩𝙚 𝙛𝙧𝙤𝙢 𝙄𝙣𝙙𝙞𝙖 𝙖 𝙏𝙝𝙞𝙧𝙙 𝙮𝙚𝙖𝙧 𝙪𝙣𝙙𝙚𝙧𝙜𝙧𝙖𝙙𝙪𝙖𝙩𝙚 𝙨𝙩𝙪𝙙𝙚𝙣𝙩.
+𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙨𝙚𝙡𝙛-𝙡𝙚𝙖𝙧𝙣𝙚𝙧 𝙖𝙣𝙙 𝙖 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧  ,
+𝙬𝙝𝙤 𝙞𝙨 𝙤𝙗𝙨𝙚𝙨𝙨𝙚𝙙 𝙬𝙞𝙩𝙝 𝙒𝙚𝙗 𝘿𝙚𝙨𝙞𝙜𝙣𝙞𝙣𝙜 𝙖𝙣𝙙 𝙖𝙡𝙬𝙖𝙮𝙨 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙩𝙤 𝙛𝙞𝙣𝙙 𝙥𝙖𝙩𝙩𝙚𝙧𝙣𝙨 𝙤𝙛 𝙬𝙝𝙞𝙘𝙝 𝙖𝙧𝙚 𝙝𝙞𝙙𝙙𝙚𝙣 𝙞𝙣 𝙩𝙝𝙚 𝘾𝙤𝙙𝙚 𝙒𝙤𝙧𝙡𝙙.</p>
+<br>
 
 ### 🛠 &nbsp;Skills <img width="30px" style="margin-left: 10px" align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
 
@@ -33,8 +34,6 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 
-
-<b><p align="center">Trophy</p></b><img src="https://github-profile-trophy.vercel.app/?username=yashkolte&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Yashkolte's Github Trophy"/>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
@@ -63,11 +62,18 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <b><p align="center">Hey! Look at this snake eating up my contributions!</p></b> ![snake gif](github-contribution-grid-snake.svg)
 
 
+<b><p align="center">Trophy 🏆</p></b><img src="https://github-profile-trophy.vercel.app/?username=yashkolte&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Yashkolte's Github Trophy"/>
+
+<a href="https://github.com/yashkolte"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashkolte&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center">If you like my work , Do contribute in my repository And you can buy me a coffee if you want its really appreciated.</p>
 
 
+<a href='https://ko-fi.com/yashkolte' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
-
+<p>Thank you for watching my profile , Giving star is free don't hesitate.</p>
+<h4 align="center">Share with Love 💚</h4>
 
 
 
