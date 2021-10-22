@@ -1,6 +1,6 @@
 
 
-<img max-width="100%" align="center" src="https://raw.githubusercontent.com/yashkolte/My-Element-Readme/main/Git.png" />
+<img max-width="100%" align="center" src="gitlanding.png" />
 
 &nbsp;
 <br>
