@@ -51,7 +51,8 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h2>📈 My Github Stats</h2>
 
-
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact" alt="yashkolte" />
+<img width="70%" align="left" alt="Github" src="img2.png" /><p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com?user=yashkolte&theme=chartreuse-dark"></p>
 
 
 
