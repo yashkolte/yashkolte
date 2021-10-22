@@ -1,6 +1,8 @@
 
 
-<img max-width="100%" align="center" src="git.png" />
+<img max-width="100%" align="center" src="https://raw.githubusercontent.com/yashkolte/My-Element-Readme/main/Git.png" />
+
+<!-- ![Git](https://raw.githubusercontent.com/yashkolte/My-Element-Readme/main/Git.png) -->
 &nbsp;
 <br>
 
