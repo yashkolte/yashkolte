@@ -58,10 +58,13 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <img width="40%" align="right" alt="Github" src="control2.svg" /><p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
 <br>
 <br>
-<b><p align="center">Hey! Look at this snake eating up my contributions!</p></b>
+<b><p align="center">Hey! Look at this snake eating up my contributions!</p></b> ![snake gif](github-contribution-grid-snake.svg)
 
-![snake gif](github-contribution-grid-snake.svg)
 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=yashkolte&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Yashkolte's Github Trophy"/>
+
+
+<!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=yashkolte&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/yashkolte) -->
 
 
 
