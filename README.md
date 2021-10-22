@@ -7,7 +7,6 @@
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=yashkolte.yashkolte)   [![Github](https://img.shields.io/github/followers/yashkolte?label=Follow&style=social)](https://github.com/yashkolte)&nbsp;
 
-<img src = "https://img.shields.io/github/followers/yashkolte?label=Follow&style=social">
 
 ### Hey Fokers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -18,7 +17,7 @@ a passionate self-learner and a Full Stack Developer  ,
 who is obsessed with Web Designing and always looking to find patterns of which are hidden in the Code World.</p>
 
 ### 🛠 &nbsp;Tech Stack
- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"><p>Skills</p>
+ <img margin="20px"src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"><p>Skills</p>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
