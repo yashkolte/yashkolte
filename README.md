@@ -34,6 +34,8 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 
 
+<b><p align="center">Trophy</p></b><img src="https://github-profile-trophy.vercel.app/?username=yashkolte&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Yashkolte's Github Trophy"/>
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 <a href="https://discord.gg/52EyZwYz">
@@ -61,7 +63,6 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <b><p align="center">Hey! Look at this snake eating up my contributions!</p></b> ![snake gif](github-contribution-grid-snake.svg)
 
 
-<b><p align="center">Trophy</p></b><img src="https://github-profile-trophy.vercel.app/?username=yashkolte&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Yashkolte's Github Trophy"/>
 
 
 
