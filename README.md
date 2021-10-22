@@ -30,10 +30,8 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)&nbsp;
-<!-- ![My SQL](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=mysql)&nbsp; -->
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![AdobeXD](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-xd)
+![AdobeXD](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-xd)&nbsp;
 
 
 
@@ -53,19 +51,3 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 
 
 
-
-
-
-
-
-
-<style>
-    p{
-        font-family:"poppins"
-    }
-    .logo{
-        width: 25px;
-        height:20px;
-        display:block;
-    }
-</style>
