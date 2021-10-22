@@ -5,7 +5,7 @@
 &nbsp;
 <br>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=yashkolte.yashkolte)[![Github](https://img.shields.io/github/followers/yashkolte?label=Follow&style=social)](https://github.com/yashkolte)&nbsp;
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=yashkolte.yashkolte)   [![Github](https://img.shields.io/github/followers/yashkolte?label=Follow&style=social)](https://github.com/yashkolte)&nbsp;
 
 <img src = "https://img.shields.io/github/followers/yashkolte?label=Follow&style=social">
 
