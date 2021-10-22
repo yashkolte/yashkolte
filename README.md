@@ -16,9 +16,7 @@
 a passionate self-learner and a Full Stack Developer  ,
 who is obsessed with Web Designing and always looking to find patterns of which are hidden in the Code World.</p>
 
-### 🛠 &nbsp;Tech Stack
-<img width="30px" style="margin-left: 10px" align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
- <p >SKILLS</p>
+### 🛠 &nbsp;Skills <img width="30px" style="margin-left: 10px" align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -36,7 +34,7 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 <a href="https://discord.gg/52EyZwYz">
   <img alt="Yash's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -47,7 +45,11 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <a href="https://open.spotify.com/user/uxpvteyrel00b4v6tdkvczaeo">
   <img style="margin-left:30px" alt="Yash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<br>
+<br>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h2>📈 My Github Stats</h2>
 
 
 
