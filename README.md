@@ -70,14 +70,14 @@
 
 <a href="https://github.com/yashkolte"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashkolte&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<p align="center">If you like my work , Do contribute in my repository And you can buy me a coffee if you want its really appreciated.</p>
+<br>
+<p align="center">If you like my work , Do contribute in my repository And buy me a coffee if you want its really appreciated.</p>
+<br>
+<p align="center">
+<a href='https://ko-fi.com/yashkolte' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br>
 
+<p align="center">Thank you for watching my profile , Giving star is free don't hesitate.</p>
+<h4 align="center">Share with Love 💚</h4><br>
 
-<a href='https://ko-fi.com/yashkolte' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-
-<p>Thank you for watching my profile , Giving star is free don't hesitate.</p>
-<h4 align="center">Share with Love 💚</h4>
-
-
+<img align="center" src="footer.png">
 
