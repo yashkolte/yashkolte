@@ -5,7 +5,9 @@
 &nbsp;
 <br>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=yashkolte.yashkolte)   [![Github](https://img.shields.io/github/followers/yashkolte?label=Follow&style=social)](https://github.com/yashkolte)&nbsp;
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=yashkolte.yashkolte) 
+![Profile views](https://komarev.com/ghpvc/?username=yashkolte)
+[![Github](https://img.shields.io/github/followers/yashkolte?label=Follow&style=social)](https://github.com/yashkolte)&nbsp;
 
 
 ### Hey Fokers </div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
