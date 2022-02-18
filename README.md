@@ -24,39 +24,51 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+<br>![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)\
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<br>![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+<br>![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<br>![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+<br>![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 
-<br><br><br><br><br>
+<br>
 
 <h2> Connect with me <img align="right" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
+<div align="center">
+<a>
+  <img alt="Yash's Discord" src="https://img.shields.io/badge/Telegram-088cce?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 <a href="https://discord.gg/52EyZwYz">
-  <img alt="Yash's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img alt="Yash's Discord" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://twitter.com/yashkolte20">
-  <img style="margin-left:30px" alt="Yash Kolte | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Yash Kolte | Twitter"src="https://img.shields.io/badge/twitter-24a4f2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://open.spotify.com/user/uxpvteyrel00b4v6tdkvczaeo">
-  <img style="margin-left:30px" alt="Yash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://open.spotify.com/user/31wio6vi4cfier55izkt3awjzfw4">
+  <img alt="Yash's Spotify" src="https://img.shields.io/badge/spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
+</div>
 <br><br><br>
 <br>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div align="center">
+<img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br>
+
 <h2>📈 My Github Stats</h2>
+</div>
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact" alt="yashkolte" />
+<br><br>
 
-<img width="55%" align="left" alt="Github" src="img2.png" /><p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com?user=yashkolte&theme=chartreuse-dark"></p>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact" alt="yashkolte" /><img align="left" width="50%" alt="Github" src="img2.png" /><p ><img src="https://github-readme-streak-stats.herokuapp.com?user=yashkolte&theme=chartreuse-dark"></p>
+
+<br><br><br><br>
 
 <img width="40%" align="right" alt="Github" src="control2.svg" /><p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
 <br>
@@ -69,7 +81,7 @@
 
 <br><br>
 
-<a href="https://github.com/yashkolte"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashkolte&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a align="center" href="https://github.com/yashkolte"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashkolte&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <br>
 <p align="center">If you like my work , Do contribute in my repository And buy me a coffee if you want its really appreciated.</p>
@@ -79,5 +91,7 @@
 
 <p align="center">Thank you for watching my profile , <i>Giving star and follow is free don't hesitate.</i></p>
 <h4 align="center">Share with Love 💚</h4><br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkolte&theme=vue)&nbsp;
 
 <img align="center" src="footer.png">
