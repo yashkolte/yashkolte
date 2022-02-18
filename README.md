@@ -5,9 +5,7 @@
 &nbsp;
 <br>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=yashkolte.yashkolte) 
-![Profile views](https://komarev.com/ghpvc/?username=yashkolte)
-[![Github](https://img.shields.io/github/followers/yashkolte?label=Follow&style=social)](https://github.com/yashkolte)&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=yashkolte&style=plastic)
 
 
 ### Hey Fokers </div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -41,7 +39,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br>
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+<h2> Connect with me <img align="right" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 <a href="https://discord.gg/52EyZwYz">
   <img alt="Yash's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
