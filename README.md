@@ -1,12 +1,9 @@
-
-
 <img max-width="100%" align="center" src="https://raw.githubusercontent.com/yashkolte/My-Element-Readme/main/Gitlanding.png" />
 
 &nbsp;
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=yashkolte&style=plastic)
-
 
 ### Hey Fokers </div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -19,7 +16,7 @@
 
 <img width="50%" align="right" alt="Github" src="loadgif.gif" />
 
-<br>
+<br><br>
 
 ### 🛠 &nbsp;Skills <img width="30px" style="margin-left: 10px" align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
 
@@ -38,7 +35,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
+<br><br><br><br><br>
+
 <h2> Connect with me <img align="right" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 <a href="https://discord.gg/52EyZwYz">
@@ -50,7 +48,7 @@
 <a href="https://open.spotify.com/user/uxpvteyrel00b4v6tdkvczaeo">
   <img style="margin-left:30px" alt="Yash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<br>
+<br><br><br>
 <br>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -83,4 +81,3 @@
 <h4 align="center">Share with Love 💚</h4><br>
 
 <img align="center" src="footer.png">
-
