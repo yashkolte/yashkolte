@@ -7,7 +7,7 @@
 
 ### Hey Fokers </div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer...;I'm+Web+Developer;I'm+Engineer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer...;I'm+Web+Developer;I'm+Android+Developer;)
 
 <p>𝙄 𝙖𝙢 𝙔𝙖𝙨𝙝 𝙠𝙤𝙡𝙩𝙚 𝙛𝙧𝙤𝙢 𝙄𝙣𝙙𝙞𝙖 𝙖 𝙏𝙝𝙞𝙧𝙙 𝙮𝙚𝙖𝙧 𝙪𝙣𝙙𝙚𝙧𝙜𝙧𝙖𝙙𝙪𝙖𝙩𝙚 𝙨𝙩𝙪𝙙𝙚𝙣𝙩.
 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙨𝙚𝙡𝙛-𝙡𝙚𝙖𝙧𝙣𝙚𝙧 𝙖𝙣𝙙 𝙖 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧  ,
@@ -66,22 +66,37 @@
 
 <br><br>
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact" alt="yashkolte" /><img align="left" width="50%" alt="Github" src="img2.png" /><p ><img src="https://github-readme-streak-stats.herokuapp.com?user=yashkolte&theme=chartreuse-dark"></p>
+<center>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yashkolte&theme=chartreuse-light">
+</center>
 
-<br><br><br><br>
+<br><br><br>
 
-<img width="40%" align="right" alt="Github" src="control2.svg" /><p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
+<center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact" alt="yashkolte" />
+<img height="" width="50%" src="img3.png" alt="yashkolte" />
+</center>
+<!-- <img width="100%"alt="Github" src="img2.jfif"/> -->
+</p>
+
+<br><br><br>
+
+<div align="center">
+<img width="40%" alt="Github" src="control2.svg" />
+</div>
+
+<p> <img width="70%" src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
+
 <br>
 <br>
-<b><p align="center">Hey! Look at this snake eating up my contributions!</p></b> ![snake gif](github-contribution-grid-snake.svg)
+<b><p align="center">Hey! Look at this snake eating up my contributions!</p></b>
+
+![snake gif](github-contribution-grid-snake.svg)
 <br><br>
 
-<h2 align="center">Trophy 🏆</h2>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=yashkolte&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Yashkolte's Github Trophy"/>
-
 <br><br>
 
-<a align="center" href="https://github.com/yashkolte"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashkolte&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a align="center" href="https://github.com/yashkolte"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashkolte&bg_color=00000&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <br>
 <p align="center">If you like my work , Do contribute in my repository And buy me a coffee if you want its really appreciated.</p>
@@ -89,9 +104,7 @@
 <p align="center">
 <a href='https://ko-fi.com/yashkolte' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br>
 
-<p align="center">Thank you for watching my profile , <i>Giving star and follow is free don't hesitate.</i></p>
+<p align="center">Thank you for watching my profile , <i>Giving star and follow is free and Unlimited so don't hesitate.</i></p>
 <h4 align="center">Share with Love 💚</h4><br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkolte&theme=vue)&nbsp;
 
 <img align="center" src="footer.png">
