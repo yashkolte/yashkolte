@@ -76,7 +76,9 @@
 
 <br><br>
 
+<center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yashkolte&theme=chartreuse-light">
+</center>
 
 <br><br><br>
 
