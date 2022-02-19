@@ -83,7 +83,7 @@
 <center>
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact" alt="yashkolte" />
-<img height="" align="right" width="45%" src="img3.png" alt="yashkolte" />
+<img height="" align="right" width="50%" src="img3.png" alt="yashkolte" />
 </center>
 
 <!-- <img width="100%"alt="Github" src="img2.jfif"/> -->
