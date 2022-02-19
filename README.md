@@ -1,4 +1,4 @@
-<img max-width="100%" align="center" src="https://raw.githubusercontent.com/yashkolte/My-Element-Readme/main/Gitlanding.png" />
+<img max-width="100%" align="center" src="Gitlanding.png" />
 
 &nbsp;
 <br>
