@@ -91,7 +91,7 @@
 
 <br><br><br>
 
-<div align="center">
+<div align="left">
 <img width="40%" alt="Github" src="control2.svg" />
 </div>
 
