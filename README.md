@@ -51,16 +51,16 @@
 <h2> Connect with me <img align="right" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 <div align="center">
-<a>
+<a href="https://t.me/yash_kolte"target='_blank'>
   <img alt="Yash's Telegram" src="https://img.shields.io/badge/Telegram-088cce?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/yashkolte_">
+<a href="https://www.instagram.com/yashkolte_"target='_blank'>
   <img alt="Yash's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://twitter.com/yashkolte20">
+<a href="https://twitter.com/yashkolte20"target='_blank'>
   <img alt="Yash's Twitter | Twitter"src="https://img.shields.io/badge/twitter-24a4f2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://open.spotify.com/user/31wio6vi4cfier55izkt3awjzfw4">
+<a href="https://open.spotify.com/user/31wio6vi4cfier55izkt3awjzfw4"target='_blank'>
   <img alt="Yash's Spotify" src="https://img.shields.io/badge/spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 </div>
