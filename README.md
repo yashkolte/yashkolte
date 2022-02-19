@@ -83,7 +83,7 @@
 <br><br><br>
 
 <div align="left">
-<img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact" alt="yashkolte" />
+<img  height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact" alt="yashkolte" />
 <img height="" align="right" width="50%" src="img3.png" alt="yashkolte" />
 
 <!-- <img width="100%"alt="Github" src="img2.jfif"/> -->
