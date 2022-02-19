@@ -51,7 +51,7 @@
 <h2> Connect with me <img align="right" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 <div align="center">
-<a href="https://t.me/yash_kolte" target='_blank'>
+<a href="https://t.me/yash_kolte" target="_blank">
   <img alt="Yash's Telegram" src="https://img.shields.io/badge/Telegram-088cce?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/yashkolte_" target='_blank'>
