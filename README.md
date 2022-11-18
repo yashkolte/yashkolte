@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer...;I'm+Web+Developer;I'm+Android+Developer;)
 
-<p>I am Yash Kolte a Third year college student a passionate self-learner and a Full Stack Developer, 
+<p>I am Yash Kolte a college student a passionate self-learner and a Full Stack Developer, 
 who is obsessed with Web Designing and always looking to find patterns of which are hidden in Code World.  </p>
 <br>
 
