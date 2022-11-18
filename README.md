@@ -1,4 +1,7 @@
-<img max-width="100%" align="center" src="Gitlanding.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
+</picture>
 
 &nbsp;
 <br>
@@ -22,9 +25,9 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 <br>
-
+<!-- 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=white)&nbsp; -->
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -53,7 +56,7 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <a href="https://www.instagram.com/yashkolte_" target='_blank'>
   <img alt="Yash's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://twitter.com/yashkolte20" target='_blank'>
+<a href="https://twitter.com/yashkolte_" target='_blank'>
   <img alt="Yash's Twitter | Twitter"src="https://img.shields.io/badge/twitter-24a4f2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://open.spotify.com/user/31wio6vi4cfier55izkt3awjzfw4" target='_blank'>
@@ -97,7 +100,7 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <br>
 <b><p align="center">Hey! Look at this snake eating up my contributions!</p></b>
 
-![snake gif](github-contribution-grid-snake.svg)
+![snake gif](github-contribution-grid-snake.svg#gh-dark-mode-only)
 <br><br>
 
 <br><br>
