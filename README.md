@@ -103,9 +103,9 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 ![snake gif](github-contribution-grid-snake.svg#gh-dark-mode-only)
 <br><br>
 
-<br><br>
+
 <picture>
-<source media="(prefers-color-scheme: dark") srcsets="https://activity-graph.herokuapp.com/graph?username=yashkolte&theme=react-dark&hide_border=true">
+<source media="(prefers-color-scheme: dark") srcset="https://activity-graph.herokuapp.com/graph?username=yashkolte&theme=react-dark&hide_border=true">
 <img alt="Error" src="https://activity-graph.herokuapp.com/graph?username=yashkolte&hide_border=true">
 <picture>
 
