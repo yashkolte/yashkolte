@@ -104,8 +104,10 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <br><br>
 
 <br><br>
-
-<a align="center" href="https://github.com/yashkolte"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashkolte&bg_color=00000&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<picture>
+<source media="(prefers-color-scheme: dark") srcsets="https://activity-graph.herokuapp.com/graph?username=yashkolte&theme=react-dark&hide_border=true">
+<img alt="Error" src="https://activity-graph.herokuapp.com/graph?username=yashkolte&hide_border=true">
+<picture>
 
 <br>
 <p align="center">If you like my work , Do contribute in my repository And buy me a coffee if you want its really appreciated.</p>
