@@ -85,7 +85,6 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact" alt="yashkolte" />
 <img height="" align="right" width="50%" src="img3.png" alt="yashkolte" />
 
-<!-- <img width="100%"alt="Github" src="img2.jfif"/> -->
 </p>
 
 <br><br><br>
