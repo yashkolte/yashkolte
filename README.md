@@ -110,7 +110,7 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 <p align="center">
 <a href='https://ko-fi.com/yashkolte' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br>
 
-<p align="center">Thank you for watching my profile , <i>Giving star and follow is free and Unlimited so don't hesitate.</i></p>
+<p align="center">Thank you for watching my profile , <i>Giving star and follow is free and Unlimited.</i></p>
 <h4 align="center">Share with Love 💚</h4><br>
 
 <img align="center" src="footer.png">
