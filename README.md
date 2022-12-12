@@ -103,8 +103,6 @@ who is obsessed with Web Designing and always looking to find patterns of which 
 ![snake gif](github-contribution-grid-snake.svg#gh-dark-mode-only)
 <br><br>
 
-<img alt="Github" src="https://activity-graph.herokuapp.com/graph?username=yashkolte&theme=react-dark&hide_border=true" />
-
 <br>
 <p align="center">If you like my work , Do contribute in my repository And buy me a coffee if you want its really appreciated.</p>
 <br>
