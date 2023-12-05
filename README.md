@@ -13,7 +13,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Front+End+Developer...;I'm+Web+Designer;)
 
 <p>I am Yash Kolte a passionate self-learner and a MERN Developer, 
-who is obsessed with Web Designing and always looking to find patterns of which are hidden in Code World.  </p>
+who is obsessed with Web design and always looking to find patterns that are hidden in Code World.  </p>
 <br>
 
 <img width="50%" align="right" alt="Github" src="loadgif.gif" />
