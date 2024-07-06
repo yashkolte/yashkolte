@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
- <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
+ <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.png">
+ <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./hero-light.png">
 </picture>
 
 &nbsp;
@@ -8,9 +8,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=yashkolte&style=plastic)
 
-### Hey Fokers </div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Front+End+Developer...;I'm+Web+Designer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer...;I'm+Web+Designer;)
 
 <p>I am Yash Kolte a passionate self-learner and a MERN Developer, 
 who is obsessed with Web design and always looking to find patterns that are hidden in Code World.  </p>
@@ -32,12 +32,14 @@ who is obsessed with Web design and always looking to find patterns that are hid
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=38bdf8)&nbsp;
 <br>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=#47A248)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=#000000)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=#61DAFB)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=#339933)&nbsp;
+![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=#339933)&nbsp;
 
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
@@ -51,6 +53,9 @@ who is obsessed with Web design and always looking to find patterns that are hid
 <h2> Connect with me <img align="right" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 <div align="center">
+<!-- <a href="https://t.me/yash_kolte" target="_blank">
+  <img alt="Yash's Telegram" src="./logos/linkedin.png" width="50" />
+</a> -->
 <a href="https://t.me/yash_kolte" target="_blank">
   <img alt="Yash's Telegram" src="https://img.shields.io/badge/Telegram-088cce?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
