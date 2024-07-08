@@ -92,8 +92,8 @@ who is obsessed with Web design and always looking to find patterns that are hid
 <br><br><br>
 
 <div align="left">
-<img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yashkolte" />
-<img align="right" width="45%" style="object-fit:cover; border:2px solid #fff; border-radius: 5px; background: #fff;" src="./Images/MyEmoji_20240708_154013_17204334136580.gif" alt="yashkolte" />
+<img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yashkolte" />
+<img align="right" width="45%" height="200" style="object-fit:cover; border:2px solid #fff; border-radius: 5px; background: #fff;" src="./Images/MyEmoji_20240708_154013_17204334136580.gif" alt="yashkolte" />
 
 </p>
 
