@@ -18,6 +18,7 @@
 <div style="display: flex; flex-direction :row-reverse; align-items:center; justify-content: center; margin: 1rem 0">
 
 <img width="40%" height="250" align="right" alt="Github" src="./Images/MyEmoji_20240708_153913_17204333531900.gif" style="background-color: #dadada; border-radius: 8px; object-fit:contain;" />
+
 <div>
 
 <div style="display: flex; align-items:center;">
@@ -85,14 +86,15 @@
 
 <br><br><br>
 
-<div style="display: flex; align-items:center;">
-<img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yashkolte" />
+<div style="display:flex;">
+<img align="left" width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yashkolte" />
 
-<img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
+<img align="right" width="40%" height="200" src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
 
 </div>
 <br>
 <br>
+
 <b><p align="center">Hey! Look at this snake eating up my contributions!</p></b>
 
 ![snake gif](github-contribution-grid-snake.svg#gh-dark-mode-only)
