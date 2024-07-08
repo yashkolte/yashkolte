@@ -12,8 +12,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer...;I'm+Web+Designer;)
 
-<p>I am Yash Kolte a passionate self-learner and a Full Stack Developer, 
-who is obsessed with Web design and always looking to find patterns that are hidden in Code World.  </p>
+<p>I am Yash Kolte, a passionate self-learner and a Full Stack Developer who is obsessed with Web design and always looking to find patterns that are hidden in the Code World.</p>
 <br>
 
 <div style="display: flex; flex-direction :row-reverse; align-items:center; justify-content: center; margin: 1rem 0">
@@ -29,7 +28,6 @@ who is obsessed with Web design and always looking to find patterns that are hid
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=#F05032)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -52,12 +50,9 @@ who is obsessed with Web design and always looking to find patterns that are hid
 </div>
 </div>
 
-<h2> Connect with me <img align="right" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+<h2>Connect with me <img align="right" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2>
 
 <div align="center">
-<!-- <a href="https://t.me/yash_kolte" target="_blank">
-  <img alt="Yash's Telegram" src="./logos/linkedin.png" width="50" />
-</a> -->
 <a href="https://t.me/yash_kolte" target="_blank">
   <img alt="Yash's Telegram" src="https://img.shields.io/badge/Telegram-088cce?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -65,13 +60,12 @@ who is obsessed with Web design and always looking to find patterns that are hid
   <img alt="Yash's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://twitter.com/yashkolte_" target='_blank'>
-  <img alt="Yash's Twitter | Twitter"src="https://img.shields.io/badge/twitter-24a4f2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img alt="Yash's Twitter" src="https://img.shields.io/badge/twitter-24a4f2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://open.spotify.com/user/31wio6vi4cfier55izkt3awjzfw4" target='_blank'>
   <img alt="Yash's Spotify" src="https://img.shields.io/badge/spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 </div>
-
 
 <br><br><br>
 <br>
@@ -93,9 +87,7 @@ who is obsessed with Web design and always looking to find patterns that are hid
 
 <div align="left">
 <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yashkolte" />
-<img align="right" width="45%" height="200" style="object-fit:cover; border:2px solid #fff; border-radius: 5px; background: #fff;" src="./Images/MyEmoji_20240708_154013_17204334136580.gif" alt="yashkolte" />
-
-</p>
+<img align="right" width="45%" style="object-fit:cover; border:2px solid #fff; border-radius: 5px; background: #fff;" src="./Images/MyEmoji_20240708_154013_17204334136580.gif" alt="yashkolte" />
 
 <br><br><br>
 
@@ -118,8 +110,7 @@ who is obsessed with Web design and always looking to find patterns that are hid
 <p align="center">
 <a href='https://ko-fi.com/yashkolte' target='_blank'><img style='border:2px solid #fff; border-radius: 18px; height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br>
 
-<p align="center">Thank you for watching my profile , <i>Giving star and follow is free and Unlimited.</i></p>
+<p align="center">Thank you for watching my profile. <i>Giving a star and following is free and unlimited.</i></p>
 <h4 align="center">Share with Love 💚</h4><br>
 
 <img align="center" src="footer.png">
-
