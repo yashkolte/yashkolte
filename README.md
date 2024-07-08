@@ -12,28 +12,30 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer...;I'm+Web+Designer;)
 
-<p>I am Yash Kolte a passionate self-learner and a MERN Developer, 
+<p>I am Yash Kolte a passionate self-learner and a Full Stack Developer, 
 who is obsessed with Web design and always looking to find patterns that are hidden in Code World.  </p>
 <br>
 
-<img width="50%" align="right" alt="Github" src="loadgif.gif" />
+<div style="display: flex; flex-direction :row-reverse; align-items:center; justify-content: center; margin: 1rem 0">
 
-<br><br>
+<img width="50%" align="right" alt="Github" src="./Images/MyEmoji_20240708_153913_17204333531900.gif" style="background: #dadada; border-radius: 8px; align-self: right;" />
+<div>
 
-### 🛠 &nbsp;Skills <img width="30px" style="margin-left: 10px" align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
+<div style="display: flex; align-items:center;">
+<h3>🛠 Skills</h3>
+<img width="30px" height="30px" style="margin-left: 10px" align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
+</div>
 
-<!-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) -->
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=#F05032)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-<br>
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=38bdf8)&nbsp;
-<br>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=#47A248)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=#000000)&nbsp;
@@ -44,11 +46,11 @@ who is obsessed with Web design and always looking to find patterns that are hid
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-<br>
-
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
+</div>
+</div>
 
 <h2> Connect with me <img align="right" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
@@ -90,19 +92,19 @@ who is obsessed with Web design and always looking to find patterns that are hid
 <br><br><br>
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact" alt="yashkolte" />
-<img height="" align="right" width="50%" src="img3.png" alt="yashkolte" />
+<img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yashkolte" />
+<img align="right" width="49%" height="235" style="object-fit:cover; border:2px solid #fff; border-radius: 5px; background: #dadada;" src="./Images/MyEmoji_20240708_154013_17204334136580.gif" alt="yashkolte" />
 
 </p>
 
 <br><br><br>
 
-<div align="left">
-<img width="40%" alt="Github" src="control2.svg" />
+<div style="display: flex; align-items-center;">
+<img width="50%" height="200" style="object-fit:contain; transform: scaleX(-1);" alt="Github" src="./Images/MyEmoji_20240708_155725_17204344458650.gif" />
+
+<img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
+
 </div>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
-
 <br>
 <br>
 <b><p align="center">Hey! Look at this snake eating up my contributions!</p></b>
@@ -111,12 +113,13 @@ who is obsessed with Web design and always looking to find patterns that are hid
 <br><br>
 
 <br>
-<p align="center">If you like my work , Do contribute in my repository And buy me a coffee if you want its really appreciated.</p>
+<p align="center">If you like my work, consider contributing to my repository. A cup of coffee is always appreciated, but your contribution is the most valuable reward.</p>
 <br>
 <p align="center">
-<a href='https://ko-fi.com/yashkolte' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br>
+<a href='https://ko-fi.com/yashkolte' target='_blank'><img style='border:2px solid #fff; border-radius: 18px; height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br>
 
 <p align="center">Thank you for watching my profile , <i>Giving star and follow is free and Unlimited.</i></p>
 <h4 align="center">Share with Love 💚</h4><br>
 
 <img align="center" src="footer.png">
+
