@@ -18,7 +18,7 @@ who is obsessed with Web design and always looking to find patterns that are hid
 
 <div style="display: flex; flex-direction :row-reverse; align-items:center; justify-content: center; margin: 1rem 0">
 
-<img width="50%" height="200" align="right" alt="Github" src="./Images/MyEmoji_20240708_153913_17204333531900.gif" style="background-color: #dadada; border-radius: 8px;" />
+<img width="50%" height="200" align="right" alt="Github" src="./Images/MyEmoji_20240708_153913_17204333531900.gif" style="background-color: #dadada; border-radius: 8px; object-fit:contain;" />
 <div>
 
 <div style="display: flex; align-items:center;">
