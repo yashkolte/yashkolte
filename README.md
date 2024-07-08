@@ -95,7 +95,7 @@
 <br>
 <br>
 
-<b><p align="center">Hey! Look at this snake eating up my contributions!</p></b>
+<b><p align="center" width="100%">Hey! Look at this snake eating up my contributions!</p></b>
 
 ![snake gif](github-contribution-grid-snake.svg#gh-dark-mode-only)
 <br><br>
