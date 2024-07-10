@@ -81,15 +81,15 @@
 <br><br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yashkolte&theme=chartreuse-light">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkolte&theme=light&hide_border=false">
 </div>
 
 <br><br>
 
 <div style="display:flex;">
-<img align="left" width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yashkolte" />
+<img align="left" width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yashkolte" />
 
-<img align="right" width="40%" height="200" src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
+<img align="right" width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yashkolte's Github Stats"/>
 
 </div>
 <br>
