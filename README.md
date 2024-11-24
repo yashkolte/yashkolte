@@ -133,7 +133,7 @@ Here are some of the notable projects I’ve worked on as a freelance developer:
 ### 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkolte&theme=light&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkolte" alt="GitHub Streak" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages">
 </div>
