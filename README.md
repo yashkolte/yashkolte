@@ -9,17 +9,22 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer...;I'm+Web+Designer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer;I'm+Web+Designer;)
 
 <p>
-  I am Yash Kolte, a passionate self-learner and a Full Stack Developer who is obsessed with web design, always looking to find patterns hidden in the code world.
+I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep passion for crafting visually captivating and highly functional web experiences. My love for design and development fuels my curiosity to explore new technologies and uncover innovative patterns hidden in the world of code.
 </p>
+
+<p align="left">
+  🌐 Visit my website: <a href="https://yashkolte.web.app" target="_blank">yashkolte.web.app</a>
+</p>
+
 
 ---
 
 <img align="right" width="250px" alt="Emoji Animation" src="./Images/MyEmoji_20240708_153913_17204333531900.gif" style="border-radius: 8px; object-fit: contain;" />
 
-### 🛠 I Got You Covered <img align="center" width="30px" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
+### 🛠 Skills <img align="center" width="30px" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
 
 #### Frontend Technology
 
@@ -28,14 +33,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=38bdf8)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=gsap&logoColor=38bdf8)
 
 #### MERN Stack Technology
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
-![ExpressJS](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=000000)
+![ExpressJS](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=ffffff)
 ![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933)
-![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=000000)
+![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=ffffff)
 
 #### Backend Technology
 
@@ -43,6 +49,12 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot&logoColor=092E20)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=59666C)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+
+#### No Code Technology
+
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=ffffff)
+![Shopify](https://img.shields.io/badge/-Shopify-05122A?style=flat&logo=shopify&logoColor=7AB55C)
+![Webflow](https://img.shields.io/badge/-Webflow-05122A?style=flat&logo=webflow&logoColor=4353FF)
 
 #### Designing Tools
 
@@ -53,29 +65,66 @@
 
 ---
 
-### Connect with Me <img align="right" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
+### 📌 Freelance Projects
+
+Here are some of the notable projects I’ve worked on as a freelance developer:
+
+#### 1. **Claims Nidan**  
+- **Type**: Insurance Claim Website  
+- **Tech Stack**: Wordpress, PHP, MySQL
+- **Role**: Developed backend services for claim management, implemented a responsive frontend, and optimized data processing to ensure fast claim approvals.
+
+#### 2. **Courtyard bliss**  
+- **Type**: Hotel Stay Website  
+- **Tech Stack**: HTML, CSS, JavaScript, MySQL, Firebase
+- **Role**: Built a fully functional website with real-time user management, dynamic product pages, and secure payment gateway integration.
+
+#### 3. **Miracle IT**  
+- **Type**: Training Institute Website  
+- **Tech Stack**: WordPress  
+- **Role**: Delivered a customized WordPress solution with an interactive course catalog, booking forms, and SEO optimization.
+
+#### 4. **Color Combination**  
+- **Type**: Personal Portfolio Website  
+- **Tech Stack**: GSAP, JavaScript, HTML, CSS  
+- **Role**: Focused on creative animation and interactivity, showcasing the advanced use of GSAP for smooth animations.
+
+#### 5. **WTF Clothing**  
+- **Type**: eCommerce Clothing Website  
+- **Tech Stack**: MERN Stack  
+- **Role**: Built a scalable, user-friendly eCommerce platform with features like filtering, sorting, and an optimized checkout process.
+
+---
+
+### Connect with Me <img align="left" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="30px">
 
 <div align="center">
+  <a href="https://codepen.io/Yash-Kolte" target="_blank">
+    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
   <a href="https://stackoverflow.com/users/13671105/yash-kolte" target="_blank">
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-e7700d?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/yashkolte/" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://in.pinterest.com/yashkolte_/" target="_blank">
-    <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-e60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+    <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/yashkolte" target="_blank">
+    <img alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   <a href="https://t.me/yash_kolte" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-088cce?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://wa.link/vw3q3a" target="_blank">
-    <img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-1db954?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/yashkolte_" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/yashkolte_" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-24a4f2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/31wio6vi4cfier55izkt3awjzfw4" target="_blank">
-    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
@@ -103,8 +152,14 @@
 
 <p align="center">
   <a href='https://ko-fi.com/yashkolte' target='_blank'>
-    <img style='border:2px solid #fff; border-radius: 18px; height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' alt='Buy Me a Coffee at ko-fi.com' />
+    <img src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
+  <!-- <a href='https://ko-fi.com/yashkolte' target='_blank'>
+    <img src='https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+  <a href='https://ko-fi.com/yashkolte' target='_blank'>
+    <img src='https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2' alt='Buy Me a Coffee at ko-fi.com' />
+  </a> -->
 </p>
 
 <p align="center">Thank you for visiting my profile. <i>Giving a star and following is free and unlimited.</i></p>
