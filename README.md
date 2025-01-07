@@ -138,7 +138,11 @@ Here are some of the notable projects I’ve worked on as a freelance developer:
 
 ### 🐍 Contribution Graph
 
-![snake gif](https://github.com/yashkolte/yashkolte/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yashkolte/yashkolte/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yashkolte/yashkolte/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
