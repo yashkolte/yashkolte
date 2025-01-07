@@ -146,20 +146,12 @@ Here are some of the notable projects I’ve worked on as a freelance developer:
 
 ---
 
-<p align="center">
+<div align="center">
   If you like my work, consider contributing to my repository. A cup of coffee is always appreciated, but your contribution is the most valuable reward.
-</p>
+</div>
 
 <p align="center">
-  <a href='https://ko-fi.com/yashkolte' target='_blank'>
-    <img src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-  <!-- <a href='https://ko-fi.com/yashkolte' target='_blank'>
-    <img src='https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-  <a href='https://ko-fi.com/yashkolte' target='_blank'>
-    <img src='https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2' alt='Buy Me a Coffee at ko-fi.com' />
-  </a> -->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H56OJ24)
 </p>
 
 <p align="center">Thank you for visiting my profile. <i>Giving a star and following is free and unlimited.</i></p>
