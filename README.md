@@ -17,7 +17,7 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 
 <img align="right" width="250px" alt="Emoji Animation" src="./Images/MyEmoji_20240708_153913_17204333531900.gif" style="border-radius: 8px; object-fit: contain;" />
 
-### 🛠 Skills <img align="center" width="30px" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
+### 🛠 Skills
 
 #### Frontend Technology
 
