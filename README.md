@@ -5,11 +5,7 @@
 
 &nbsp;
 
-![Profile views](https://komarev.com/ghpvc/?username=yashkolte&style=plastic)
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=EEFFFF&size=30&lines=It's+Yash!;I'm+Full+Stack+Developer;I'm+Web+Designer;)
+![Profile views](https://komarev.com/ghpvc/?username=yashkolte&color=yellow&style=plastic)
 
 <p>
 I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep passion for crafting visually captivating and highly functional web experiences. My love for design and development fuels my curiosity to explore new technologies and uncover innovative patterns hidden in the world of code.
@@ -142,7 +138,7 @@ Here are some of the notable projects I’ve worked on as a freelance developer:
 
 ### 🐍 Contribution Graph
 
-![Snake Gif](github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Snake Gif](github-contribution-grid-snake.svg)
 
 ---
 
