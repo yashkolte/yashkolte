@@ -11,10 +11,7 @@
 I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep passion for crafting visually captivating and highly functional web experiences. My love for design and development fuels my curiosity to explore new technologies and uncover innovative patterns hidden in the world of code.
 </p>
 
-<p align="left">
-  🌐 [Visit My Portfolio](https://yashkolte.web.app)
-</p>
-
+🌐 [Visit My Portfolio](https://yashkolte.web.app)
 
 ---
 
