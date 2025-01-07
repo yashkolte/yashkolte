@@ -12,7 +12,7 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 </p>
 
 <p align="left">
-  🌐 Visit my website: <a href="https://yashkolte.web.app" target="_blank">yashkolte.web.app</a>
+  🌐 [Visit My Portfolio](https://yashkolte.web.app)
 </p>
 
 
