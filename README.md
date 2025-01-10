@@ -26,7 +26,6 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=38bdf8)
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=gsap&logoColor=38bdf8)
 
 #### MERN Stack Technology
 
