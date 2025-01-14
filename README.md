@@ -11,7 +11,9 @@
 I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep passion for crafting visually captivating and highly functional web experiences. My love for design and development fuels my curiosity to explore new technologies and uncover innovative patterns hidden in the world of code.
 </p>
 
-🌐 [Visit My Portfolio](https://yashkolte.web.app)
+<a href="https://yashkolte.web.app" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
 
 ---
 
