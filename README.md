@@ -3,6 +3,8 @@
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./hero-light.png">
 </picture>
 
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashkolte2fb49.png?alt=media)
+
 &nbsp;
 
 ![Profile views](https://komarev.com/ghpvc/?username=yashkolte&color=yellow&style=plastic)
