@@ -149,9 +149,11 @@ Here are some of the notable projects I’ve worked on as a freelance developer:
 <div align="center">
   If you like my work, consider contributing to my repository. A cup of coffee is always appreciated, but your contribution is the most valuable reward.
 </div>
-
+&nbsp;
 <p align="center">
-<a href='https://ko-fi.com/H2H56OJ24' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href="https://razorpay.me/@yashkolte" target="_blank">
+    <img alt="Codepen" src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
+  </a>
 </p>
 
 <p align="center">Thank you for visiting my profile. <i>Giving a star and following is free and unlimited.</i></p>
