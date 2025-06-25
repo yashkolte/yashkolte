@@ -426,25 +426,25 @@ _I'm always excited to connect with fellow developers, designers, and entreprene
 <tr>
 <td align="center" width="25%">
 <a href="https://linkedin.com/in/yashkolte" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="28"/>
 <br><em>Professional Network</em>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://x.com/yashkolte_" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" height="28"/>
 <br><em>Tech Updates</em>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://instagram.com/yashkolte_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="28"/>
 <br><em>Behind the Scenes</em>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://linktr.ee/yashkolte" target="_blank">
-<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=39E09B" alt="Linktree" height="28"/>
 <br><em>All Links</em>
 </a>
 </td>
@@ -459,25 +459,25 @@ _I'm always excited to connect with fellow developers, designers, and entreprene
 <tr>
 <td align="center" width="25%">
 <a href="mailto:yashkolte8045@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" height="28"/>
 <br><em>Business Inquiries</em>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://wa.link/vw3q3a" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" height="28"/>
 <br><em>Quick Chat</em>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://t.me/yash_kolte" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-088cce?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+<img src="https://img.shields.io/badge/Telegram-088cce?style=for-the-badge&logo=telegram&logoColor=white&labelColor=088cce" alt="Telegram" height="28"/>
 <br><em>Instant Messaging</em>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://yashkolte.web.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio" height="28"/>
 <br><em>View My Work</em>
 </a>
 </td>
@@ -492,25 +492,25 @@ _I'm always excited to connect with fellow developers, designers, and entreprene
 <tr>
 <td align="center" width="25%">
 <a href="https://codepen.io/Yash-Kolte" target="_blank">
-<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="CodePen" height="28"/>
 <br><em>Code Experiments</em>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://stackoverflow.com/users/13671105/yash-kolte" target="_blank">
-<img src="https://img.shields.io/badge/StackOverflow-e7700d?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+<img src="https://img.shields.io/badge/StackOverflow-e7700d?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=e7700d" alt="StackOverflow" height="28"/>
 <br><em>Q&A Community</em>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/yashkolte" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" height="28"/>
 <br><em>Open Source</em>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://in.pinterest.com/yashkolte_/" target="_blank">
-<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=E60023" alt="Pinterest" height="28"/>
 <br><em>Design Inspiration</em>
 </a>
 </td>
