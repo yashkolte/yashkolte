@@ -527,13 +527,13 @@ _I'm always excited to connect with fellow developers, designers, and entreprene
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yashkolte&theme=meta-dark&card_width=770&background=45%2C000000%2C130F40&ring=2234AE&fire=7A7ADB&dates=EBEBEB95" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=yashkolte&theme=dark&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=FFA500&stroke=0D1117&border=21262D&dates=7D8590&sideNums=58A6FF&currStreakNum=F0F0F0" alt="GitHub Streak"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yashkolte&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F0F0F0&text_color=9CA3AF&icon_color=58A6FF&border_color=21262D" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkolte&layout=compact&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F0F0F0&text_color=9CA3AF&border_color=21262D" alt="Top Languages"/>
 
 </div>
 
