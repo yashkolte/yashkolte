@@ -365,7 +365,7 @@ _Delivering exceptional web solutions with cutting-edge technologies_
 
 > _"I had the pleasure of working with Yash on a recent project, and I am beyond impressed with his **professionalism and attention to detail**. He took the time to understand all of my requirements, even when some were quite complex, and handled everything with **patience and politeness**. Yash was always open to feedback and offered multiple revisions until my client was fully satisfied. His expertise in **UI/UX design and WordPress**, along with other web development services, is outstanding. I highly recommend Yash to anyone looking for a **dedicated and skilled web development professional**."_
 
-**[Aditya Kumar](https://www.linkedin.com/in/aditya-kumar)**  
+**[Aditya Kumar](https://www.linkedin.com/in/adityagrowth15/)**  
 _Growth Associate at Crudcook | AI Enthusiast_  
 📅 _September 2024_
 
