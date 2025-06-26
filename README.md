@@ -527,7 +527,7 @@ _I'm always excited to connect with fellow developers, designers, and entreprene
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yashkolte&theme=dark&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=FFA500&stroke=0D1117&border=21262D&dates=7D8590&sideNums=58A6FF&currStreakNum=F0F0F0" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yashkolte&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <br>
 
