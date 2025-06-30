@@ -40,7 +40,7 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 - **🚀 Innovation-Driven**: Always exploring cutting-edge technologies and trends
 - **👥 Client-Focused**: 100% project success rate with 5-star satisfaction
 - **🎯 Results-Oriented**: Delivering measurable improvements for every project
-- **🔄 Continuous Learning**: Currently mastering Stripe
+- **🔄 Continuous Learning**: Recently certified in Stripe & GitHub, exploring Docker & AWS
 
 <div align="center">
 
@@ -89,6 +89,58 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 - **Project Efficiency**: Delivered complex web project 15% under budget, serving 1,000+ daily users
 - **Business Impact**: Launched responsive website increasing traffic by 30% and inquiries by 25%
 - **AI Integration**: Developed scalable solutions with AI features, automating 40% of user tasks and achieving 90% client satisfaction
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+### 🎓 Professional Certifications
+
+<br>
+
+#### 🐙 GitHub Foundations Certified
+
+<img src="./Images/github-foundations.png" alt="GitHub Foundations Certification" width="120" style="border-radius: 10px;">
+
+**GitHub Foundations** • _Earned June 2025_
+
+✅ **Core Competencies:**
+
+- Git and GitHub fundamentals and workflows
+- Repository management & collaboration
+- GitHub features and best practices
+- Open source contribution methodologies
+
+<a href="https://www.credly.com/badges/2860ee6a-42a9-43b4-88d4-09ef6f0bdd39/linked_in?t=syojmt" target="_blank">
+  <img src="https://img.shields.io/badge/View_Credential-100000?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Credential"/>
+</a>
+
+<br><br>
+
+---
+
+#### 💳 Stripe Certified Associate Developer
+
+<img src="./Images/stripe.png" alt="Stripe Certified Associate Developer" width="120" style="border-radius: 10px;">
+
+**Associate Developer** • _Earned June 4, 2025_
+
+✅ **Core Competencies:**
+
+- Payment integrations development using Stripe APIs
+- Payment methods implementation and optimization
+- Stripe Link integration for seamless checkout
+- Low-code and no-code payment solutions
+
+<a href="https://stripecertifications.credential.net/05bf58e5-3d70-40a0-a3d8-b0b5ddd699c3#acc.lcMrOH1Q" target="_blank">
+  <img src="https://img.shields.io/badge/View_Credential-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="View Stripe Credential"/>
+</a>
+
+</div>
+
+<br><br>
 
 <!-- ---
 
@@ -168,6 +220,8 @@ _Building modern solutions with cutting-edge tools and frameworks_
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
