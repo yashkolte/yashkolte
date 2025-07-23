@@ -33,14 +33,14 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 
 ## 🌟 About Me
 
-**Hello!** I'm Yash Kolte, a passionate Full Stack Developer and UI/UX Designer with a deep love for crafting visually captivating and highly functional web experiences. My journey in technology is driven by curiosity, creativity, and a commitment to excellence.
+**Hello!** I'm Yash Kolte, a passionate Full Stack Developer and UI/UX Designer with expertise in crafting scalable web applications and intuitive user experiences. My journey in technology is driven by curiosity, continuous learning, and a commitment to writing clean, efficient code.
 
 **🌟 What Sets Me Apart:**
 
-- **🚀 Innovation-Driven**: Always exploring cutting-edge technologies and trends
-- **👥 Client-Focused**: 100% project success rate with 5-star satisfaction
-- **🎯 Results-Oriented**: Delivering measurable improvements for every project
-- **🔄 Continuous Learning**: Recently certified in Stripe & GitHub, exploring Docker & AWS
+- **🚀 Innovation-Driven**: Always exploring cutting-edge technologies and modern development practices
+- **� Full Stack Expertise**: Proficient in both frontend and backend technologies
+- **🎯 Problem Solver**: Focus on building solutions that solve real-world problems
+- **🔄 Continuous Learning**: Recently certified in Stripe & GitHub, currently exploring Docker & AWS
 
 <div align="center">
 
@@ -50,45 +50,6 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 </div>
 
 <br>
-
----
-
-## 💼 Professional Experience
-
-### 💻 Software Developer | Estuate, Inc.
-
-**Trainee Position** • _Jan 2025 - Present (6 months)_  
-📍 _Bangalore Urban, Karnataka, India · On-site_
-
-- **Core Technologies**: Java Development and Java Software Development
-- Developing enterprise-level applications using Java frameworks
-- Contributing to scalable software solutions for business requirements
-
----
-
-### 🌐 Full Stack Developer | Content Ketchup
-
-**Full-time Position** • _Nov 2023 - Oct 2024 (1 year)_  
-📍 _Bhopal, Madhya Pradesh, India · On-site_
-
-- **Application Development**: Designed and implemented scalable applications using React, Next.js, and Spring Boot with MySQL integration
-- **Frontend Excellence**: Built responsive UIs with advanced GSAP animations for seamless user experiences
-- **Backend Integration**: Developed RESTful APIs ensuring secure frontend-backend communication
-- **Project Leadership**: Collaborated with cross-functional teams from concept to deployment
-- **Quality Assurance**: Conducted code reviews, debugging, and performance optimization
-
-**Key Skills**: Java Development, E-Commerce, React, Next.js, Spring Boot, MySQL, GSAP
-
----
-
-### 🔧 Web Developer | FORALL A TECH (now NEXTIN LABS)
-
-**Internship** • _Dec 2022 - Jan 2023 (2 months)_  
-📍 _Bhopal, Madhya Pradesh, India · On-site_
-
-- **Project Efficiency**: Delivered complex web project 15% under budget, serving 1,000+ daily users
-- **Business Impact**: Launched responsive website increasing traffic by 30% and inquiries by 25%
-- **AI Integration**: Developed scalable solutions with AI features, automating 40% of user tasks and achieving 90% client satisfaction
 
 ---
 
@@ -121,11 +82,11 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 
 ---
 
-#### 💳 Stripe Certified Associate Developer
+#### 💳 Stripe Certified Professional Developer
 
-<img src="./Images/stripe.png" alt="Stripe Certified Associate Developer" width="120" style="border-radius: 10px;">
+<img src="./Images/stripe.png" alt="Stripe Certified Professional Developer" width="120" style="border-radius: 10px;">
 
-**Associate Developer** • _Earned June 4, 2025_
+**Professional Developer** • _Earned June 4, 2025_
 
 ✅ **Core Competencies:**
 
@@ -141,6 +102,46 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 </div>
 
 <br><br>
+
+---
+
+## 🚀 Product Hunt Launch
+
+<div align="center">
+
+### 🏆 Featured Product Launch
+
+<br>
+
+#### 🎯 FreelancerPro – Your All-in-One Freelance Business Hub
+
+**🌟 Product Description:** Track clients, projects, invoices, and payments – effortlessly. Whether you're juggling multiple clients or handling late invoices, FreelancerPro streamlines your freelance workflow so you can focus on delivering great work — not managing chaos.
+
+**🔧 Key Features:**
+- ✅ **Client Management** - Centralized dashboard for all client information
+- ✅ **Project Tracking** - Stay on top of deadlines, tasks, and deliverables
+- ✅ **Invoice Generation** - Create professional invoices in seconds
+- ✅ **Payment Tracking** - Never lose track of payments and overdue invoices
+- ✅ **Android Mobile App** - Manage your business on the go
+- ✅ **Terms & Conditions Generator** - Create legal documents tailored to your services
+- ✅ **Freelance Agreement Builder** - Professional contracts, NDAs, and project scopes
+
+**📊 Launch Results:**
+- 🔥 **Upvotes:** XXX+
+- 🏅 **Ranking:** #X Product of the Day
+- 💬 **Comments:** XX+ positive reviews
+- 🚀 **Launch Date:** Month DD, 2025
+
+**🎯 Built for freelancers who want to:**
+- Spend less time on admin, more time on actual work
+- Impress clients with professionalism  
+- Stay organized and get paid on time
+
+**🔗 Try it out:** [FreelancerPro Website/Demo Link] | **👉 Start for free and level up your freelance business today!**
+
+**Built with:** React • Next.js • TypeScript • Node.js • MongoDB • Stripe
+
+</div>
 
 <!-- ---
 
@@ -310,161 +311,7 @@ _Building modern solutions with cutting-edge tools and frameworks_
 
 ---
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-### 💼 Professional Project Portfolio
-
-_Delivering exceptional web solutions with cutting-edge technologies_
-
-</div>
-
-<br>
-
-### 🚀 Recent Client Work
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Claims_Nidan-Insurance_Platform-blue?style=for-the-badge" alt="Claims Nidan"/>
-<br><br>
-<strong>🏥 Insurance Claim Website</strong>
-<br><br>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<br><br>
-<em>Developed backend services for claim management with optimized data processing for fast approvals</em>
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Courtyard_Bliss-Hotel_Booking-green?style=for-the-badge" alt="Courtyard Bliss"/>
-<br><br>
-<strong>🏨 Hotel Stay Website</strong>
-<br><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<br><br>
-<em>Built full-stack solution with real-time booking system and secure payment integration</em>
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Miracle_IT-Training_Platform-purple?style=for-the-badge" alt="Miracle IT"/>
-<br><br>
-<strong>🎓 Training Institute Website</strong>
-<br><br>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
-<img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" alt="SEO"/>
-<br><br>
-<em>Delivered customized solution with interactive course catalog and optimized booking system</em>
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/Color_Combination-Creative_Portfolio-orange?style=for-the-badge" alt="Color Combination"/>
-<br><br>
-<strong>🎨 Personal Portfolio Website</strong>
-<br><br>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<br><br>
-<em>Focused on creative animations and interactivity showcasing advanced GSAP techniques</em>
-</td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/WTF_Clothing-eCommerce_Platform-red?style=for-the-badge" alt="WTF Clothing"/>
-<br><br>
-<strong>👕 eCommerce Clothing Website</strong>
-<br><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<br><br>
-<em>Built scalable eCommerce platform with advanced filtering, sorting, and checkout optimization</em>
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📊 Project Impact Metrics
-
-<div align="center">
-
-|       **Metric**        | **Achievement** |            **Description**            |
-| :---------------------: | :-------------: | :-----------------------------------: |
-| **Client Satisfaction** |     5.0/5.0     |  Perfect rating across all projects   |
-|  **Delivery Success**   |      100%       |    All projects delivered on time     |
-|  **Performance Boost**  |     45% avg     | Average improvement in client metrics |
-|   **Repeat Business**   |      90%+       |      High client retention rate       |
-
-</div>
-
-<br>
-
-### 💬 What Clients Say About My Work
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-### ⭐⭐⭐⭐⭐
-
-> _"I had the pleasure of working with Yash on a recent project, and I am beyond impressed with his **professionalism and attention to detail**. He took the time to understand all of my requirements, even when some were quite complex, and handled everything with **patience and politeness**. Yash was always open to feedback and offered multiple revisions until my client was fully satisfied. His expertise in **UI/UX design and WordPress**, along with other web development services, is outstanding. I highly recommend Yash to anyone looking for a **dedicated and skilled web development professional**."_
-
-**[Aditya Kumar](https://www.linkedin.com/in/adityagrowth15/)**  
-_Growth Associate at Crudcook | AI Enthusiast_  
-📅 _September 2024_
-
-</td>
-</tr>
-</table>
-
-<!-- <br>
-
-### 🎯 Client Success Metrics
-
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>Project Success Rate</strong><br>
-<span style="font-size: 24px; color: #7A7ADB;">100%</span><br>
-<em>All projects delivered on time</em>
-</td>
-<td align="center" width="33%">
-<strong>Client Satisfaction</strong><br>
-<span style="font-size: 24px; color: #7A7ADB;">5.0/5.0</span><br>
-<em>Average client rating</em>
-</td>
-<td align="center" width="33%">
-<strong>Repeat Business</strong><br>
-<span style="font-size: 24px; color: #7A7ADB;">90%+</span><br>
-<em>Clients who return for more projects</em>
-</td>
-</tr>
-</table> -->
-
-<br>
-
-### 💼 Want to Work Together?
-
-**Ready to bring your vision to life?** I'm currently accepting new projects and would love to hear about your requirements.
-
-[![Contact Me](https://img.shields.io/badge/💬_Let's_Discuss_Your_Project-4CAF50?style=for-the-badge&logoColor=white)](https://wa.link/vw3q3a)
-[![View Portfolio](https://img.shields.io/badge/🎨_View_My_Portfolio-2196F3?style=for-the-badge&logoColor=white)](https://yashkolte.web.app)
-
-</div>
-
----
-
-## 🌐 Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
 
@@ -491,12 +338,6 @@ _I'm always excited to connect with fellow developers, designers, and entreprene
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://instagram.com/yashkolte_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="28"/>
-<br><em>Behind the Scenes</em>
-</a>
-</td>
-<td align="center" width="25%">
 <a href="https://linktr.ee/yashkolte" target="_blank">
 <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=39E09B" alt="Linktree" height="28"/>
 <br><em>All Links</em>
@@ -512,15 +353,9 @@ _I'm always excited to connect with fellow developers, designers, and entreprene
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="mailto:yashkolte8045@gmail.com" target="_blank">
+<a href="mailto:yashkolte.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" height="28"/>
 <br><em>Business Inquiries</em>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://wa.link/vw3q3a" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" height="28"/>
-<br><em>Quick Chat</em>
 </a>
 </td>
 <td align="center" width="25%">
@@ -554,12 +389,6 @@ _I'm always excited to connect with fellow developers, designers, and entreprene
 <a href="https://stackoverflow.com/users/13671105/yash-kolte" target="_blank">
 <img src="https://img.shields.io/badge/StackOverflow-e7700d?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=e7700d" alt="StackOverflow" height="28"/>
 <br><em>Q&A Community</em>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/yashkolte" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" height="28"/>
-<br><em>Open Source</em>
 </a>
 </td>
 <td align="center" width="25%">
@@ -611,32 +440,22 @@ _I'm always excited to connect with fellow developers, designers, and entreprene
 
 ---
 
-## 🤝 Let's Build Something Amazing Together!
+## 🤝 Let's Connect!
 
 <div align="center">
 
-### 💡 Ready to Turn Your Ideas Into Reality?
+### 💡 Ready to Collaborate?
 
-I'm always excited to work on innovative projects and connect with fellow developers and entrepreneurs. Whether you're looking for freelance development, technical consultation, or just want to chat about the latest in web development, I'd love to hear from you!
+I'm always excited to work on innovative projects and connect with fellow developers, tech enthusiasts, and teams building amazing products. Whether you're looking for collaboration, want to discuss technology, or explore opportunities, I'd love to hear from you!
 
 <br>
 
 ### 📬 Get In Touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkolte8045@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkolte.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashkolte)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/vw3q3a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashkolte.web.app)
-
-<br>
-
-### ☕ Support My Work
-
-If you find my work valuable, consider supporting me! Your contribution helps me continue creating and sharing quality content.
-
-<a href="https://razorpay.me/@yashkolte" target="_blank">
-  <img alt="Support My Work" src="https://img.shields.io/badge/Support%20My%20Work-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashkolte)
 
 <br><br>
 
@@ -646,11 +465,11 @@ If you find my work valuable, consider supporting me! Your contribution helps me
 
 ### 🌟 Thank You for Visiting!
 
-_Every star ⭐ and follow means the world to me. Let's connect and build the future of web together!_
+_Let's connect and build amazing things together!_
 
 <br>
 
-**💼 Available for:** Freelance Projects • Consulting • Open Source Contributions • Full-time Opportunities
+**💼 Open to:** Full-time Opportunities • Collaborations • Open Source Contributions • Tech Discussions
 
 <br>
 
