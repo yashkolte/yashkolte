@@ -51,7 +51,7 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 
 <br>
 
----
+<!-- ---
 
 ## 🏆 Certifications & Achievements
 
@@ -103,7 +103,7 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 
 <br><br>
 
----
+--- -->
 
 ## 🚀 Product Hunt Launch
 
@@ -126,20 +126,14 @@ I’m Yash Kolte, a driven self-learner and a Full Stack Developer with a deep p
 - ✅ **Terms & Conditions Generator** - Create legal documents tailored to your services
 - ✅ **Freelance Agreement Builder** - Professional contracts, NDAs, and project scopes
 
-**📊 Launch Results:**
-- 🔥 **Upvotes:** XXX+
-- 🏅 **Ranking:** #X Product of the Day
-- 💬 **Comments:** XX+ positive reviews
-- 🚀 **Launch Date:** Month DD, 2025
-
 **🎯 Built for freelancers who want to:**
 - Spend less time on admin, more time on actual work
 - Impress clients with professionalism  
 - Stay organized and get paid on time
 
-**🔗 Try it out:** [FreelancerPro Website/Demo Link] | **👉 Start for free and level up your freelance business today!**
+**👉 Start for free and level up your freelance business today!**
 
-**Built with:** React • Next.js • TypeScript • Node.js • MongoDB • Stripe
+**Built with:** React • Next.js • TypeScript • Node.js • MongoDB 
 
 </div>
 
