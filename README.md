@@ -5,8 +5,6 @@
   <img alt="Yash Kolte Header" src="./hero-light.png">
 </picture>
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashkolte2fb49.png?alt=media)
-
 ![Profile views](https://komarev.com/ghpvc/?username=yashkolte&color=blueviolet&style=for-the-badge)
 
 # 👋 Hey there! I'm Yash Kolte
